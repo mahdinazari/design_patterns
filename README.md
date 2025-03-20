@@ -10,6 +10,8 @@ If you are interested, feel free to improve them or contribute to implementing t
 
 - [Facade In Python](https://github.com/mahdinazari/design_patterns/tree/main/python/facade)
 
+- [Proxy In Python](https://github.com/mahdinazari/design_patterns/tree/main/python/proxy)
+
 - [](https://github.com/mahdinazari/design_patterns/tree/main/python/)
 
 ---
