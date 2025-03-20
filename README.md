@@ -6,6 +6,10 @@ If you are interested, feel free to improve them or contribute to implementing t
 
 - [Abstract Factory Method In Pythhon](https://github.com/mahdinazari/design_patterns/tree/main/python/abstract_factory)
 
+- [Adapter In Python](https://github.com/mahdinazari/design_patterns/tree/main/python/adapter)
+
+- [Facade In Python](https://github.com/mahdinazari/design_patterns/tree/main/python/facade)
+
 - [](https://github.com/mahdinazari/design_patterns/tree/main/python/)
 
 ---
